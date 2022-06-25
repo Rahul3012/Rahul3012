@@ -10,12 +10,12 @@ I am rahul lokhande.
 - Writing terraform modules to easy create and depolyment cloud services 
 - Writing dockerfile
 - Writing own algorithms to optimize lengthy operations.
-- Generic components to reduce code complexity and to increase reusability.
+- Create generic components to reduce code complexity and to increase reusability.
 - Maintain time complexity and memory management
 
 **Work**
 - Currently working as full tack developer.
-- Every week I write various APIs in **python flask and .net core.**
+- Every week I write various APIs in python flask and .net core.
 - Also write some nuget packages to help API.
 - Mongodb and sql tables are APIs data store.
 - Beautify data gathered data from APIs with javascript frameworks like ReactJs.
