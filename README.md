@@ -11,7 +11,8 @@ I am rahul lokhande.
 - Writing dockerfile
 - Writing own algorithms to optimize lengthy operations.
 - Create generic components to reduce code complexity and to increase reusability.
-- Maintain time complexity and memory management
+- Automate dev test scenarios for effective and time saving testing.
+- Maintain time complexity and memory management.
 
 **Work**
 - Currently working as full tack developer.
