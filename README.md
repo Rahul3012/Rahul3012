@@ -19,6 +19,6 @@ I am rahul lokhande.
 - Every week I write various APIs in python flask and .net core.
 - Also write some nuget packages to help API.
 - Mongodb and sql tables are APIs data store.
-- Beautify data gathered data from APIs with javascript frameworks like ReactJs.
+- Beautify data gathered from APIs with javascript frameworks like ReactJs.
 - Creates UI responsive components with material ui.
 - Docker and kubernetes help me to keep my APIs and UI running. 
