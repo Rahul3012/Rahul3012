@@ -20,5 +20,5 @@ I am rahul lokhande.
 - Also write some nuget packages to help API.
 - Mongodb and sql tables are APIs data store.
 - Beautify data gathered from APIs with javascript frameworks like ReactJs.
-- Creates UI responsive components with material ui.
+- Creates UI responsive components with react material ui.
 - Docker and kubernetes help me to keep my APIs and UI running. 
