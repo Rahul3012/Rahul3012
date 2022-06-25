@@ -1,7 +1,6 @@
 Hey there,
 
 I am rahul lokhande. 
-I keep running.
 
 **My expertise areas**
 - Linux system programming, Linux kernel developement
