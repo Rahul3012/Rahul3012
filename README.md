@@ -2,7 +2,7 @@ Hey there,
 
 I am Rahul Lokhande. 
 
-**My expertise areas**
+**My Learnings**
 - Linux system programming, Linux kernel developement
 - REST APIs in python flask, cpp, .net core
 - Javascript frameworks Reactjs, AngularJs
