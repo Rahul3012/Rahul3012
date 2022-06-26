@@ -17,7 +17,7 @@ I am Rahul Lokhande.
 **Work**
 - Currently working as full tack developer.
 - Every week I write various APIs in python flask and .net core.
-- Also write some nuget packages to help API.
+- Also sometime write common liabraries to help API functionality.
 - Mongodb and sql tables are APIs data store.
 - Beautify data gathered from APIs with javascript frameworks like ReactJs.
 - Creates UI responsive components with react material ui.
